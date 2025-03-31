@@ -38,27 +38,28 @@ Antes de começar, tenha certeza de que você tem o **Node.js** e o **npm** inst
 
    Navegue até a pasta do projeto:
 
-bash
+```bash
 Copiar
 cd meteora
+```
 
 ##Instale as dependências (caso necessário):
 
-bash
+```bash
 Copiar
 npm install
-
+```
 ## Executar o Projeto
 
 Inicie o servidor de desenvolvimento:
-
+```
 bash
 Copiar
 npm start
-Acesse o site em seu navegador através do endereço:
+```
+## Acesse o site em seu navegador através do endereço:
 
-arduino
-Copiar
+
 http://localhost:3000
 
 ## Contribuindo
